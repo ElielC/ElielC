@@ -3,7 +3,7 @@
 Developer Analyst @Topaz.
 
 #
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielC&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
